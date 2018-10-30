@@ -44,10 +44,4 @@
   	</plugins>
   </build>
   
-  <modules>
-  	<module>../imooc-security-app</module>
-  	<module>../imooc-security-browser</module>
-  	<module>../imooc-security-core</module>
-  	<module>../imooc-security-demo</module>
-  </modules>
 </project>
